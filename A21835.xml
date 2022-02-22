@@ -1,0 +1,141 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the Queene. The Queenes most excellent Maiestie, foreseeing the generall dearth growen of corne and other victuals, partly through the vnseasonablenesse of the yeere past, whereby want hath growen more in some countries then in others  ...</title>
+            <title>Proclamations. 1587-01-02</title>
+            <author>England and Wales. Sovereign (1558-1603 : Elizabeth I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1587</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A21835</idno>
+            <idno type="STC">STC 8161</idno>
+            <idno type="STC">ESTC S118292</idno>
+            <idno type="EEBO-CITATION">99853499</idno>
+            <idno type="PROQUEST">99853499</idno>
+            <idno type="VID">18883</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A21835)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 18883)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 884:08)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the Queene. The Queenes most excellent Maiestie, foreseeing the generall dearth growen of corne and other victuals, partly through the vnseasonablenesse of the yeere past, whereby want hath growen more in some countries then in others  ...</title>
+                  <title>Proclamations. 1587-01-02</title>
+                  <author>England and Wales. Sovereign (1558-1603 : Elizabeth I)</author>
+                  <author>Elizabeth I, Queen of England, 1533-1603.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>By Christopher Barker, printer to the Queenes most excellent Maiestie,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>[1587]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Publication date from STC.</note>
+                  <note>The date in the title is old style--STC.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Food supply --  England --  Early works to 1800.</term>
+               <term>Grain --  England --  Prices --  Early works to 1800.</term>
+               <term>England --  Proclamations --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:18883:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 12 -->
+            <head>
+               <g ref="char:leaf">❧</g> By the Queene.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He Queenes moſt excellent Maieſtie, foreſeeing the generall dearth growen of corne and other victuals, partly through the vnſeaſona<g ref="char:EOLhyphen"/>bleneſſe of the yeere paſt, whereby want hath growen more in ſome countries then in others, but moſt of all generallie through the co<g ref="char:EOLhyphen"/>uetouſneſſe and vncharitable greedineſſe of ſuch as be great corne<g ref="char:EOLhyphen"/>maſters and engroſſers of corne, vſing al the ſubtil meanes they can, to worke their owne preſent vnconſcionable gaine againſt the rules of charitie, which her Maieſtie of her princely care and loue towards her people, vtterly condemneth, and earneſtly deſireth to remedie, for the reliefe of the poorer ſort. And therefore, her Maieſtie with her princely care towards her peo<g ref="char:EOLhyphen"/>ple, hauing with the aduiſe of her Counſell had good conſideration hereof, doth by this her Procla<g ref="char:EOLhyphen"/>mation, giue expreſſe commandement and charge vnto al ſuch to whome it ſhall or may appertaine, that ſuch good orders as her Maieſtie hath commanded to be deuiſed for that purpoſe, and now alſo are ſent to all partes of her Realme, bee diligently &amp; effectually put in ſpeedie execution: Signifying withall vnto all her good and louing ſubiects, that if any ſhalbe founde obſtinate or negligent in the due execution, or otherwiſe in the obſeruation thereof, that then vpon due enformation and proofe thereof made vnto her highneſſe ſaid Counſell, which ſhe requireth not to be ſpared by any, hauing iuſt cauſe of complaint, for reſpect of any perſon, ſhe hath giuen ſpecial commandement &amp; order, that they ſhalbe ſpeedily called to anſwere, and thereupon, according to the qualitie of their offences, ſhall receiue ſharpe puniſhment, whereby others may take example to auoide the like contempt, negli<g ref="char:EOLhyphen"/>gence, or other defaults.</p>
+            <p>And although this Dearth hath inſundry partes of the Realme firſt growen by the viſitation of Almightie God, in the alteration of ſeaſonable weather this laſt yeere, which neuertheleſſe of his great mercy hath bin ſo extreme in this Realme, as in many other Countries adioyning, where the Dearth is by many occaſions manifeſtly knowen to be farre greater then is in this Realme hi<g ref="char:EOLhyphen"/>therto, or by his goodneſſe is like to be: Yet it is manifeſtly knowen the ſayd Dearth to haue bene wilfully encreaſed in very many places of this Realme, not onely by and through the couetouſneſſe of many engroſſers of Corne and Cornemaſters, but alſo by vnlawfull tranſportation of Grayne, and lacke alſo of preſeruation of ſtore in time requiſite. Her Highnes acknowledging this maner of Gods mercy and fauour in amore fauourable meaſure towards her Country and her people, then to other fo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rein partes neere adioyning, hath thought good and neceſſary, for a further remedie againſt the vncharitable couetouſneſſe of the Cornemaſters, as cauſe ſhall require, to notifie, that if ſuch as be the great Cornemaſters &amp; owners of Grayne, or of other neceſſarie victual for foode of the poore, ſhall not be willing, or doe not performe theſe orders, whereby the poorer ſort may be relieued in the mar<g ref="char:EOLhyphen"/>kets at reaſonable prices, or that it ſhall appeare that other needefull victuals ſhall by couetouſneſſe of any perſons growe to exceſſiue prices, to the pinching of the poorer ſort: Then her Highneſſe doth hereby ſignefie, that ſhe wil not onely ſeuerely puniſh the offendors for their cruel couetouſnes &amp; offen<g ref="char:EOLhyphen"/>tes againſt her orders, but will alſo for redreſſe of the exceſſiue prices of other needefull victuals, giue order that reaſonable prices ſhall be ſet both on Corne and other victuals to be ſolde for the reliefe of her Maieſties poore Subiects, according both to her Prerogatiue Royal, and to the order of Iuſtice, as by ſpeciall lawe of Parliament therefore made in the fiue and twentieth yeere of the raigne of her late Noble and deare Father King Henry the eight, is ſpecially in ſuch caſes prouided.</p>
+            <closer>
+               <dateline>Giuen at Greenewich <date>the ſecond day of Ianuary, <hi>1586.</hi> In the nine and twentieth yeere of her High<g ref="char:EOLhyphen"/>neſſe raigne.</date>
+               </dateline>
+               <lb/>
+God ſaue the Queene.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <g ref="char:leaf">❧</g> Imprinted at London by Chriſtopher Barker, Printer to the Queenes moſt excellent Maieſtie.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
